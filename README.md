@@ -82,10 +82,10 @@ Develop a fullstack application with a Node.js backend and a React frontend that
 ## Screenshots
 
 ### Product List Page
-![Product List](blob:https://www.facebook.com/0196bb3d-bcf0-4a92-aee5-b99b557a2832)
+![Product List](screenshots/product_list.jpg)
 
 ### Product Detail Page
-![Product Detail](blob:https://www.facebook.com/53e7ca5c-371e-4ceb-a8da-a2ba36a2d767)
+![Product Detail](screenshots/product_detail.jpg)
 
 ### Product by ID Page 
-![Product by ID](blob:https://www.facebook.com/d373cafc-821e-42e9-aa68-a9a5f068e415)
+![Product by ID](screenshots/product_by_id.jpg)
